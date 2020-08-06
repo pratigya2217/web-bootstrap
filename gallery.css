@@ -1,0 +1,17 @@
+body{
+	padding-top: 70px;
+}
+
+.thumbnail {
+	border-image-source: 100px 100px;
+}
+
+p {
+	font-family: 'Lemonada', cursive;
+}
+
+h1 {
+	
+    font-family: 'EB Garamond', serif;
+        
+}
